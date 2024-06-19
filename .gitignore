@@ -1,0 +1,16 @@
+*.out
+*.o
+*.log
+*.*~
+*.*#
+*.gcno
+*.gcda
+*.a
+*main.c
+.#
+.git
+.vscode/*
+.idea/*
+cmake-build-debug
+CMakeLists.txt
+map
